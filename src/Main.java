@@ -1,4 +1,4 @@
-package solidprinciples;
+//package solid_principles;
 
 import solid_principles.dependancyInversionPrinciple.EmailService;
 import solid_principles.dependancyInversionPrinciple.MessageService;
